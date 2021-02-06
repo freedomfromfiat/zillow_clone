@@ -8,6 +8,10 @@
     "@testing-library/user-event": "^12.6.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-icons": "^4.1.0",
+    "react-map-gl": "^6.1.4",
+    "react-map-gl-geocoder": "^2.1.6",
+    "react-mapbox-gl-geocoder": "^1.1.0",
     "react-scripts": "4.0.2",
     "web-vitals": "^1.1.0"
   },

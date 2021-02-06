@@ -1,0 +1,21 @@
+{   "HomeData" : [
+    {
+        "address" : "1316 Dunbarton Dr",
+        "latitude": 32.9350,
+        "longitude": -96.7025,
+        "HOA": "HOA 1",
+        "icon": "/home.svg",
+        "Price" : 200000,
+        "date" : "2020-02-05"
+    },
+    {
+        "address" : "Southern Methodist University",
+        "latitude": 32.8414,
+        "longitude": -96.7841,
+        "HOA": "HOA 2",
+        "icon": "/hoa2.svg",
+        "Price" : 10000000,
+        "date" : "2020-02-05"
+    }
+    ]
+}
